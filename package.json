@@ -8,7 +8,7 @@
     "node": ">=10.18.1"
   },
   "puppeteer": {
-    "chromium_revision": "989",
+    "chromium_revision": "722274",
     "firefox_revision": "latest"
   },
   "scripts": {
